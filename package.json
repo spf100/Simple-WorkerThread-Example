@@ -1,0 +1,9 @@
+{
+  "name": "worker-thread",
+  "version": "0.0.0",
+  "description": "WorkerThread",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
